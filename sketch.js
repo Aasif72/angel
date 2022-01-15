@@ -12,7 +12,6 @@ function preload(){
   angelWingImg = loadImage("angelwing.png");
   angelImg = loadImage("angel.png");
   spearImg=loadImage("spear.png");
-  gameOverImg=loadImage("gameover.png");
 }
 
 function setup() {
